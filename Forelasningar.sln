@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning6.1 constructor"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning2", "Forelasning2\Forelasning2.csproj", "{13C5747B-C8B4-47EF-BEDB-F99D0D2D5792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning1", "Forelasning1\Forelasning1.csproj", "{C544F06F-2A7E-41EF-ACFA-BFC0D441BDCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning1 Basic C-sharp", "Forelasning1\Forelasning1 Basic C-sharp.csproj", "{C544F06F-2A7E-41EF-ACFA-BFC0D441BDCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning6.2 properties", "Forelasning6.2 properties\Forelasning6.2 properties.csproj", "{62023E9E-0F54-4358-B09A-874B9A1ADFB2}"
 EndProject
