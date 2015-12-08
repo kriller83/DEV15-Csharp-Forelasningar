@@ -27,6 +27,8 @@ namespace Forelasning11_Konverteringar
 
             //Hej på dig! 
 
+            //Testar at committa! 
+
 
             //TEST med is:
             Object obj = new Cykel();
