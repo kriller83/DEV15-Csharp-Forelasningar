@@ -25,6 +25,7 @@ namespace Forelasning11_Konverteringar
                 //Konverterad
             }
 
+            
             //TEST med is:
             Object obj = new Cykel();
             bool b = obj is Cykel;  //Allways true
