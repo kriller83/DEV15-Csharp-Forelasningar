@@ -29,7 +29,7 @@ namespace Forelasning11_Konverteringar
 
             //Testar at committa! 
             //eeeh
-
+            //Teeest
 
             //TEST med is:
             Object obj = new Cykel();
