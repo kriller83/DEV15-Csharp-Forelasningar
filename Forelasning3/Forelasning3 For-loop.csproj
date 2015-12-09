@@ -53,9 +53,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Forelasning3.1\Forelasning3.1.csproj">
+    <ProjectReference Include="..\Forelasning3.1\Forelasning3.1 For-loop.csproj">
       <Project>{663f3742-6528-40ff-b2e6-facadea8eaa3}</Project>
-      <Name>Forelasning3.1</Name>
+      <Name>Forelasning3.1 For-loop</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

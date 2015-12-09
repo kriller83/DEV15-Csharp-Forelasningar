@@ -3,45 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3", "Forelasning3\Forelasning3.csproj", "{905FC11F-92BD-4B38-A088-97788B253AA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3 For-loop", "Forelasning3\Forelasning3 For-loop.csproj", "{905FC11F-92BD-4B38-A088-97788B253AA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3.1", "Forelasning3.1\Forelasning3.1.csproj", "{663F3742-6528-40FF-B2E6-FACADEA8EAA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3.1 For-loop", "Forelasning3.1\Forelasning3.1 For-loop.csproj", "{663F3742-6528-40FF-B2E6-FACADEA8EAA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3.2", "Forelasning3.2\Forelasning3.2.csproj", "{F87A010B-2DE8-4246-BB2A-26ED60A5493F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3.2 Kalkylator", "Forelasning3.2\Forelasning3.2 Kalkylator.csproj", "{F87A010B-2DE8-4246-BB2A-26ED60A5493F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning4", "Forelasning4\Forelasning4.csproj", "{45003EDB-ED0E-4F38-B88C-78D621938514}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning4 Loopar", "Forelasning4\Forelasning4 Loopar.csproj", "{45003EDB-ED0E-4F38-B88C-78D621938514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5", "Forelasning5\Forelasning5.csproj", "{B60A1627-E828-42E5-BBCE-5D1835D635D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5 Ref", "Forelasning5\Forelasning5 Ref.csproj", "{B60A1627-E828-42E5-BBCE-5D1835D635D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.1", "Forelasning5.1\Forelasning5.1.csproj", "{E6ACF9DB-C67C-4D78-8B14-B4CF9CE4F76A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.1 Out", "Forelasning5.1\Forelasning5.1 Out.csproj", "{E6ACF9DB-C67C-4D78-8B14-B4CF9CE4F76A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.2", "Forelasning5.2\Forelasning5.2.csproj", "{9E5F259D-8E2D-4724-BA9B-4BFA6E8A2766}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.2 Out och TryParse", "Forelasning5.2\Forelasning5.2 Out och TryParse.csproj", "{9E5F259D-8E2D-4724-BA9B-4BFA6E8A2766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.3", "Forelasning5.3\Forelasning5.3.csproj", "{E8E6F722-FF47-4DD5-AB94-116E1F89CE58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.3 Out och TryParse", "Forelasning5.3\Forelasning5.3 Out och TryParse.csproj", "{E8E6F722-FF47-4DD5-AB94-116E1F89CE58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.4 Recursion", "Forelasning5.4 Recursion\Forelasning5.4 Recursion.csproj", "{9AC78F5A-5C0C-4204-B91A-92FCE05535AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning5.5 Var", "Forelasning5.5 Var\Forelasning5.5 Var.csproj", "{7A1C666C-09B0-494C-8627-8712509E96A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning6", "Forelasning6\Forelasning6.csproj", "{7421F786-FF75-4ED9-B38D-FA0458C9B8A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning6 Static mm", "Forelasning6\Forelasning6 Static mm.csproj", "{7421F786-FF75-4ED9-B38D-FA0458C9B8A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning6.1 constructor", "Forelasning6.1 constructor\Forelasning6.1 constructor.csproj", "{FFBCE0A9-81AB-4330-907F-D3CE75B5181B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning2", "Forelasning2\Forelasning2.csproj", "{13C5747B-C8B4-47EF-BEDB-F99D0D2D5792}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning2 Getters och Setters", "Forelasning2\Forelasning2 Getters och Setters.csproj", "{13C5747B-C8B4-47EF-BEDB-F99D0D2D5792}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning1 Basic C-sharp", "Forelasning1\Forelasning1 Basic C-sharp.csproj", "{C544F06F-2A7E-41EF-ACFA-BFC0D441BDCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning6.2 properties", "Forelasning6.2 properties\Forelasning6.2 properties.csproj", "{62023E9E-0F54-4358-B09A-874B9A1ADFB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3.3", "Forelasning3.3\Forelasning3.3.csproj", "{06C3ADA8-D6CD-478F-BEDE-FCB7227BF6EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning3.3 Kalkylator", "Forelasning3.3\Forelasning3.3 Kalkylator.csproj", "{06C3ADA8-D6CD-478F-BEDE-FCB7227BF6EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning7", "Forelasning7\Forelasning7.csproj", "{45B24A95-7BA6-4EE8-97FE-0B632FE4A2E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning7 Korrekt struktur", "Forelasning7\Forelasning7 Korrekt struktur.csproj", "{45B24A95-7BA6-4EE8-97FE-0B632FE4A2E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning7.1", "Forelasning7.1\Forelasning7.1.csproj", "{7A2B890D-19AD-4C91-BCA3-8CA6D7847F37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning7.1 this och objectinitializer", "Forelasning7.1\Forelasning7.1 this och objectinitializer.csproj", "{7A2B890D-19AD-4C91-BCA3-8CA6D7847F37}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning8 basklass subklass", "Forelasning 8 basklass subklass\Forelasning8 basklass subklass.csproj", "{B3F9804A-8613-4BA7-A7B3-DCA9FE02BF88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning8.1", "Forelasning8.1\Forelasning8.1.csproj", "{83529C8D-2818-44E0-B9B2-A248C0000C7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning8.1 Abstract och sealed ARV", "Forelasning8.1\Forelasning8.1 Abstract och sealed ARV.csproj", "{83529C8D-2818-44E0-B9B2-A248C0000C7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning8.2 Ett annat projekt", "Forelasning8.2 Ett annat projekt\Forelasning8.2 Ett annat projekt.csproj", "{BE4A2144-8544-4ACA-A40D-7967ED28B320}"
 EndProject
@@ -64,6 +64,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning10.1 Extensions", "Forelasning10.1 Extensions\Forelasning10.1 Extensions.csproj", "{E451164C-37A3-4285-AFA1-6A91B2AA78C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning11 Konverteringar", "Forelasning12 Konverteringar\Forelasning11 Konverteringar.csproj", "{F7613E32-8441-45F1-B83E-CE3FFE21EF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning12 Collections", "Forelasning12 Collections\Forelasning12 Collections.csproj", "{EF503950-E7CB-4D9C-89B1-09863007E1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning12 Inventarie", "Forelasning12 Inventarie\Forelasning12 Inventarie.csproj", "{1277C48E-1F22-4793-A755-DC407DB38067}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,14 @@ Global
 		{F7613E32-8441-45F1-B83E-CE3FFE21EF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7613E32-8441-45F1-B83E-CE3FFE21EF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7613E32-8441-45F1-B83E-CE3FFE21EF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF503950-E7CB-4D9C-89B1-09863007E1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF503950-E7CB-4D9C-89B1-09863007E1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF503950-E7CB-4D9C-89B1-09863007E1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF503950-E7CB-4D9C-89B1-09863007E1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1277C48E-1F22-4793-A755-DC407DB38067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1277C48E-1F22-4793-A755-DC407DB38067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1277C48E-1F22-4793-A755-DC407DB38067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1277C48E-1F22-4793-A755-DC407DB38067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

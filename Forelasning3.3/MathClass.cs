@@ -19,7 +19,7 @@ namespace MyMaths
         }
 
 
-        //tre metoder: min,max och average. Vi skapar dessa metoderna.. De är skyddade för at vi skapat privata funktioner.
+        //tre metoder: min,max och average. Vi skapar dessa metoderna.. De är skyddade för att vi skapat privata funktioner.
         private double GetMin(double[] array)  //Skall vara en vektor, därmed sätts []
         {
             double min = array[0];
@@ -54,4 +54,4 @@ namespace MyMaths
 }
 
 
-//Vi använder private istälelt för public
+//Vi använder private istället för public

@@ -14,7 +14,7 @@ namespace Forelasningar
             //{
 
 
-            //Det som är på vänster sida hamnar i staken(Boat maria), 
+            //Det som är på vänster sida hamnar i stacken(Boat maria), 
             //det som är på höger sida i heapen (new Boat();).
 
             //Boat maria = new Boat();

@@ -14,7 +14,7 @@ namespace Forelasning5._4_Recursion
         static void Main(string[] args)
         {
             //WithForLoop();
-            
+
             Print(startValue);
             System.Threading.Thread.Sleep(5000);
         }

@@ -10,7 +10,7 @@ namespace Forelasning5._3
     {
         static void Main(string[] args)
         {
-            string text = "100j";
+            string text = "100";  //"100j" går ej.. scoopet körs ej då. 
             int tal;
             if(int.TryParse(text, out tal))
             {
