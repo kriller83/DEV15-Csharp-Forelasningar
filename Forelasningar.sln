@@ -65,9 +65,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning10.1 Extensions"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning11 Konverteringar", "Forelasning12 Konverteringar\Forelasning11 Konverteringar.csproj", "{F7613E32-8441-45F1-B83E-CE3FFE21EF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning12 Collections", "Forelasning12 Collections\Forelasning12 Collections.csproj", "{EF503950-E7CB-4D9C-89B1-09863007E1B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning12 Collections (List)", "Forelasning12 Collections\Forelasning12 Collections (List).csproj", "{EF503950-E7CB-4D9C-89B1-09863007E1B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning12 Inventarie", "Forelasning12 Inventarie\Forelasning12 Inventarie.csproj", "{1277C48E-1F22-4793-A755-DC407DB38067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning13 Struct", "Forelasning13 Struct\Forelasning13 Struct.csproj", "{7E8651A2-051B-4D97-8556-C9A446840C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning13.1 StructOperatorOverlagring", "Forelasning13.1 StructOperatorOverlagring\Forelasning13.1 StructOperatorOverlagring.csproj", "{0E5B6CAE-DD8B-4012-AA5D-5D13B3900AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning13.2 CastingThings", "Forelasning13.2 CastingThings\Forelasning13.2 CastingThings.csproj", "{6973F427-F89D-424B-AF16-7FD6C493A813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forelasning14 Enum", "Forelasning14 Enum\Forelasning14 Enum.csproj", "{879C4E41-B914-4A67-A1FF-3364551CA76C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +215,22 @@ Global
 		{1277C48E-1F22-4793-A755-DC407DB38067}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1277C48E-1F22-4793-A755-DC407DB38067}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1277C48E-1F22-4793-A755-DC407DB38067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8651A2-051B-4D97-8556-C9A446840C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8651A2-051B-4D97-8556-C9A446840C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8651A2-051B-4D97-8556-C9A446840C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8651A2-051B-4D97-8556-C9A446840C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5B6CAE-DD8B-4012-AA5D-5D13B3900AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5B6CAE-DD8B-4012-AA5D-5D13B3900AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5B6CAE-DD8B-4012-AA5D-5D13B3900AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5B6CAE-DD8B-4012-AA5D-5D13B3900AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6973F427-F89D-424B-AF16-7FD6C493A813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6973F427-F89D-424B-AF16-7FD6C493A813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6973F427-F89D-424B-AF16-7FD6C493A813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6973F427-F89D-424B-AF16-7FD6C493A813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879C4E41-B914-4A67-A1FF-3364551CA76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879C4E41-B914-4A67-A1FF-3364551CA76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879C4E41-B914-4A67-A1FF-3364551CA76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879C4E41-B914-4A67-A1FF-3364551CA76C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Forelasning12_Inventarie
 {
-    class Product : IComparable
+    internal class Product : IComparable<Product>
     {
         public string Name { get; set; }
         public int Quantity { get; set; }
